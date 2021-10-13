@@ -1,0 +1,7 @@
+External package:
+    Imbalanced Learning: imblearn
+    Joblib: joblib
+
+Pip command:
+pip install imblearn
+pip install joblib
